@@ -13,7 +13,7 @@ Software Engineer based in San Francisco. I studied EECS at UC Berkeley. I curre
 ![](https://github-profile-trophy.vercel.app/?username=SishaarRao&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/sishaar)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=Sishaar&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
 ---
-[![](https://visitcount.itsvg.in/api?id=SishaarRao&icon=6&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SishaarRao&label=Profile%20Views&color=9&icon=6&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=SishaarRao&label=Profile%20Views&color=9&icon=6&pretty=true" /></a>
