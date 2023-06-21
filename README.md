@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer based in San Francisco. I studied EECS at UC Berkeley. I currently work at @Lob where I primarily focus on software architecture, reliability, and performance at scale.
+Software Engineer based in San Francisco. I studied EECS at UC Berkeley. I currently work at [Nooks](https://www.nooks.ai) where I primarily focus on software architecture, reliability, and performance at scale.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sishaarrao/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/7571086/sishaar-rao) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/sishaar)
